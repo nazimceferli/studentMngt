@@ -1,0 +1,2 @@
+# studentMngt
+student management system
